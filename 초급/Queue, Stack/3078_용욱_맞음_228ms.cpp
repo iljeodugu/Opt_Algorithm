@@ -8,7 +8,7 @@ using namespace std;
 
 int main() 
 {
-	int N, K, length, last_length;
+	int N, K, length;
 	long long cnt = 0;
 	string name;
 	cin >> N >> K;
